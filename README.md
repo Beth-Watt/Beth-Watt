@@ -20,7 +20,7 @@ O&M Specialist → Cybersecurity. Shifting my mindset from personal safety → d
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/elizabethwatt-)
 
-## ⚡ What I Bring From My Current Career as an Orientation and Mobility Specialist
+## 🌟 What I Bring From My Current Career as an Orientation and Mobility Specialist
 With 15+ years in education — including 8 years training blind and visually impaired individuals to navigate the physical world safely and independently — I'm now applying that same skillset and mindset to digital spaces. The parallels run deeper than you'd think:
 
 🔍 **Environmental Scanning = Threat Detection**
