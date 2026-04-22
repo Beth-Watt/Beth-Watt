@@ -1,43 +1,22 @@
-# Hi, I'm Elizabeth 👋🏾
+Hi, I'm Elizabeth 👋🏾
+For 15+ years in education (8 of them as an Orientation and Mobility Specialist), I helped blind and visually impaired individuals navigate the physical world safely. I taught people to read environments, assess risk in real time, and make confident decisions with incomplete information. Now I'm bringing that same mindset to cybersecurity.
+The transition isn't as unexpected as it sounds. Threat detection is environmental scanning. Incident response is triage at a dangerous intersection. A misconfigured permission is a few degrees off course — small, until it isn't. I've been doing the analog version of this work for a long time.
 
-## About Me
-O&M Specialist → Cybersecurity. Shifting my mindset from personal safety → digital space safety. I've dedicated my career to helping blind and visually impaired individuals navigate the world safely — now I'm bringing that same mission to protecting people and organizations in digital spaces.
+What I'm Working On
+Finishing the IBM Hands-On Linux & Shell Scripting course
+Building out this portfolio with lab documentation from my Google Cybersecurity Certificate work
+Starting the TryHackMe SOC Level 1 path next
 
-## 🎓 Certifications & Training
-- 🔐 CompTIA Security+
-- 📜 Google Cybersecurity Certificate
+Certifications
+CompTIA Security+ — March 2026
+Google Cybersecurity Professional Certificate (all 9 courses) — November 2025
 
-## 🌱 Currently Learning
-- IBM Hands On Linux Course
-- Security Operations & Monitoring
-- Governance, Risk & Compliance (GRC)
-- SIEM tools & Log Analysis
+What's in This GitHub
+Lab documentation and project write-ups as I build hands-on experience — Wireshark analysis, Linux administration, SQL security queries, and SOC exercises. Each repo includes a README explaining what I did, what tools I used, and what I learned.
 
-## 🎯 Currently Targeting
-- SOC Analyst roles
-- GRC Analyst roles
+Targeting
+SOC Analyst and GRC Analyst roles. Open to connecting with people working in or hiring for those spaces.
+LinkedIn
 
-## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/elizabethwatt-)
-
-## 🌟 What I Bring From My Current Career as an Orientation and Mobility Specialist
-With 15+ years in education — including 8 years training blind and visually impaired individuals to navigate the physical world safely and independently — I'm now applying that same skillset and mindset to digital spaces. The parallels run deeper than you'd think:
-
-🔍 **Environmental Scanning = Threat Detection**
-Trained to detect shifts in sound, terrain, and surroundings. Logs and network traffic are just a different kind of environment to read.
-
-⚡ **Real-Time Risk Assessment = Incident Response**
-Every intersection is a split-second triage call. Cybersecurity just swapped traffic patterns for alert queues.
-
-🔄 **Adaptability = Dynamic Threat Environments**
-No two routes are identical. No two attackers are identical. Adjust or get lost.
-
-🧩 **Incomplete Info = Incomplete Logs**
-O&M teaches confident decisions with partial data. Reconstructing attack paths from missing logs? Same muscle.
-
-🎯 **Precision Navigation = Precision Security Controls**
-A few degrees off and you miss your destination. A misconfigured permission and you've got a breach. Small things matter.
-
-🔥 Fun Fact
-I can analyze traffic patterns and cross at lighted intersections with a white cane — blindfolded.
+Fun fact: I can analyze traffic patterns and cross at a lighted intersection with a white cane — blindfolded. 
 
