@@ -3,7 +3,7 @@
 For 15+ years in education (8 of them as an Orientation and Mobility Specialist), I helped blind and visually impaired individuals navigate the physical world safely. I taught people to read environments, assess risk in real time, and make confident decisions with incomplete information. Now I'm bringing that same mindset to cybersecurity.
 The transition isn't as unexpected as it sounds. Threat detection is environmental scanning. Incident response is triage at a dangerous intersection. A misconfigured permission is a few degrees off course — small, until it isn't. I've been doing the analog version of this work for a long time.
 
-## What I'm Working On
+## 🔧 What I'm Working On
 
 - Finishing the IBM Hands-On Linux & Shell Scripting course
 - Building out this portfolio with lab documentation from my Google Cybersecurity Certificate work
