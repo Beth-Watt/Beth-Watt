@@ -5,9 +5,9 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 
 #What I'm Working On
 
--Finishing the IBM Hands-On Linux & Shell Scripting course
--Building out this portfolio with lab documentation from my Google Cybersecurity Certificate work
--Starting the TryHackMe SOC Level 1 path next
+Finishing the IBM Hands-On Linux & Shell Scripting course
+Building out this portfolio with lab documentation from my Google Cybersecurity Certificate work
+Starting the TryHackMe SOC Level 1 path next
 
 #Certifications
 
