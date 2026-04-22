@@ -9,7 +9,7 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 - Building out this portfolio with lab documentation from my Google Cybersecurity Certificate work
 - Starting the TryHackMe SOC Level 1 path next
 
-##Certifications
+## Certifications
 
 - CompTIA Security+ — March 2026
 - Google Cybersecurity Professional Certificate (all 9 courses) — November 2025
