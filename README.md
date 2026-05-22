@@ -18,7 +18,7 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 
 ## 📁 What's in This GitHub
 
-- Lab documentation and project write-ups as I build hands-on experience — Wireshark analysis, Linux administration, SQL security queries, and SOC exercises. Each repo includes a README explaining what I did, what tools I used, and what I learned.
+- Lab documentation and project write-ups as I build hands-on experience — Linux. Each repo includes a README explaining what I did, what tools I used, and what I learned.
 
 ## 🎯 Targeting
 - SOC Analyst and GRC Analyst roles. Open to connecting with people working in or hiring for those spaces.
