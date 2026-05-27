@@ -7,9 +7,11 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 
 - Google Cybersecurity Professional Certificate — November 2025
 - IBM Hands-On Linux & Shell Scripting — April 2026
-- Cisco NetAcad Cybersecurity Defense Analyst (Splunk) — In Progress
-- Wireshark Labs — Up Next
-- TryHackMe SOC Level 1 Path — Summer 2026
+- Cisco NetAcad Cybersecurity Defense Analyst (Splunk) — May 2026
+- Cisco NetAcad Cybersecurity Defense Analyst (Splunk) — May 2026
+- Alison NIST CSF — May 2026 
+- Pearson Wireshark101: Packet Analysis Essentials — In progress
+- TryHackMe SOC Level 1 Path — Up next
 - Building out this portfolio with hands-on lab documentation — Ongoing 
 
 ## 🛡️ Certifications 
