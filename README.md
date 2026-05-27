@@ -8,7 +8,6 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 - Google Cybersecurity Professional Certificate — November 2025
 - IBM Hands-On Linux & Shell Scripting — April 2026
 - Cisco NetAcad Cybersecurity Defense Analyst (Splunk) — May 2026
-- Cisco NetAcad Cybersecurity Defense Analyst (Splunk) — May 2026
 - Alison NIST CSF — May 2026 
 - Pearson Wireshark101: Packet Analysis Essentials — In progress
 - TryHackMe SOC Level 1 Path — Up next
@@ -20,7 +19,7 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 
 ## 📁 What's in This GitHub
 
-- Lab documentation and project write-ups as I build hands-on experience — Linux. Each repo includes a README explaining what I did, what tools I used, and what I learned.
+- Lab documentation and project write-ups as I build hands-on experience — Linux and Splunk. Each repo and folder includes a README explaining what I did, what tools I used, and what I learned.
 
 ## 🎯 Targeting
 - SOC Analyst and GRC Analyst roles. Open to connecting with people working in or hiring for those spaces.
