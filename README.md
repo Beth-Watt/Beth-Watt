@@ -25,5 +25,5 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 - SOC Analyst and GRC Analyst roles. Open to connecting with people working in or hiring for those spaces.
 - LinkedIn
 
-## 🦯 Fun fact: I can analyze traffic patterns and cross at a lighted intersection with a white cane — blindfolded. 
+## 🦯 Fun fact: I can analyze traffic patterns and cross safely at a lighted intersection with a white cane — blindfolded. 
 
