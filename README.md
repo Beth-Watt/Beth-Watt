@@ -22,8 +22,8 @@ The transition isn't as unexpected as it sounds. Threat detection is environment
 - Lab documentation and project write-ups as I build hands-on experience — Linux and Splunk. Each repo and folder includes a README explaining what I did, what tools I used, and what I learned.
 
 ## 🎯 Targeting
-- SOC Analyst and GRC Analyst roles. Open to connecting with people working in or hiring for those spaces.
-- LinkedIn
+- Actively pursuing GRC analyst and SOC Analyst roles in the Houston area.
+- LinkedIn - www.linkedin.com/in/elizabethwatt-
 
 ## 🦯 Fun fact: I can analyze traffic patterns and cross safely at a lighted intersection with a white cane — blindfolded. 
 
