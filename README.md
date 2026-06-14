@@ -25,7 +25,7 @@ I now bring that same risk-based mindset to cybersecurity GRC. Governance, Risk,
 - Each repo and folder includes a README explaining what I did, what tools I used, and what I learned.
 
 ## 🎯 Targeting
-- Actively pursuing GRC analyst and SOC Analyst roles in the Greater Houston areas.
+- Actively pursuing GRC analyst and SOC Analyst roles in the Greater Houston area
 - LinkedIn - www.linkedin.com/in/elizabethwatt-
 
 
